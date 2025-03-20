@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "oneb/todos1",
+    "test_files": [
+      "tests/conftest.py",
+      "tests/test_tasks.py"
+    ],
+    "downloaded_to": "downloaded_repos/oneb_todos1",
+    "has_requirements": false
+  }
+]

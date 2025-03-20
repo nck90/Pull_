@@ -1,0 +1,123 @@
+[2025-03-19 16:08:14] Starting large-scale GitHub repository scraper targeting 5000 repositories
+[2025-03-19 16:08:14] Found 0 previously processed repositories
+[2025-03-19 16:08:15] Searching for repositories with query: language:Python+stars:>100 (page 1)
+[2025-03-19 16:08:18] Processing batch of 100 repositories
+[2025-03-19 16:08:18] Processing repository: public-apis/public-apis
+[2025-03-19 16:08:18] Processing repository: donnemartin/system-design-primer
+[2025-03-19 16:08:18] Processing repository: vinta/awesome-python
+[2025-03-19 16:08:19] Successfully processed vinta/awesome-python with 1 files
+[2025-03-19 16:08:19] Processing repository: TheAlgorithms/Python
+[2025-03-19 16:08:21] Successfully processed public-apis/public-apis with 6 files
+[2025-03-19 16:08:21] Processing repository: Significant-Gravitas/AutoGPT
+[2025-03-19 16:08:21] Successfully processed donnemartin/system-design-primer with 5 files
+[2025-03-19 16:08:21] Processing repository: AUTOMATIC1111/stable-diffusion-webui
+[2025-03-19 16:08:23] Successfully processed TheAlgorithms/Python with 6 files
+[2025-03-19 16:08:23] Processing repository: huggingface/transformers
+[2025-03-19 16:08:25] Successfully processed AUTOMATIC1111/stable-diffusion-webui with 7 files
+[2025-03-19 16:08:25] Processing repository: ytdl-org/youtube-dl
+[2025-03-19 16:08:25] Successfully processed Significant-Gravitas/AutoGPT with 10 files
+[2025-03-19 16:08:25] Processing repository: yt-dlp/yt-dlp
+[2025-03-19 16:08:27] Successfully processed huggingface/transformers with 10 files
+[2025-03-19 16:08:27] Processing repository: 521xueweihan/HelloGitHub
+[2025-03-19 16:08:28] Successfully processed 521xueweihan/HelloGitHub with 2 files
+[2025-03-19 16:08:28] Processing repository: deepseek-ai/DeepSeek-V3
+[2025-03-19 16:08:28] Successfully processed ytdl-org/youtube-dl with 9 files
+[2025-03-19 16:08:28] Processing repository: nvbn/thefuck
+[2025-03-19 16:08:29] Successfully processed yt-dlp/yt-dlp with 9 files
+[2025-03-19 16:08:29] Processing repository: pytorch/pytorch
+[2025-03-19 16:08:30] Successfully processed deepseek-ai/DeepSeek-V3 with 5 files
+[2025-03-19 16:08:30] Processing repository: django/django
+[2025-03-19 16:08:33] Successfully processed nvbn/thefuck with 7 files
+[2025-03-19 16:08:33] Processing repository: fastapi/fastapi
+[2025-03-19 16:08:34] Successfully processed pytorch/pytorch with 10 files
+[2025-03-19 16:08:34] Processing repository: openai/whisper
+[2025-03-19 16:08:35] Successfully processed django/django with 10 files
+[2025-03-19 16:08:35] Processing repository: tensorflow/models
+[2025-03-19 16:08:37] Successfully processed openai/whisper with 6 files
+[2025-03-19 16:08:37] Processing repository: home-assistant/core
+[2025-03-19 16:08:37] Successfully processed fastapi/fastapi with 6 files
+[2025-03-19 16:08:37] Processing repository: 3b1b/manim
+[2025-03-19 16:08:39] Successfully processed tensorflow/models with 10 files
+[2025-03-19 16:08:39] Processing repository: fighting41love/funNLP
+[2025-03-19 16:08:40] Successfully processed fighting41love/funNLP with 1 files
+[2025-03-19 16:08:40] Processing repository: comfyanonymous/ComfyUI
+[2025-03-19 16:08:41] Successfully processed 3b1b/manim with 9 files
+[2025-03-19 16:08:41] Processing repository: bregman-arie/devops-exercises
+[2025-03-19 16:08:42] Successfully processed home-assistant/core with 10 files
+[2025-03-19 16:08:42] Processing repository: abi/screenshot-to-code
+[2025-03-19 16:08:43] Successfully processed bregman-arie/devops-exercises with 7 files
+[2025-03-19 16:08:43] Processing repository: pallets/flask
+[2025-03-19 16:08:44] Successfully processed comfyanonymous/ComfyUI with 7 files
+[2025-03-19 16:08:44] Processing repository: binary-husky/gpt_academic
+[2025-03-19 16:08:46] Successfully processed abi/screenshot-to-code with 6 files
+[2025-03-19 16:08:46] Processing repository: d2l-ai/d2l-zh
+[2025-03-19 16:08:47] Successfully processed pallets/flask with 10 files
+[2025-03-19 16:08:47] Processing repository: josephmisiti/awesome-machine-learning
+[2025-03-19 16:08:47] Successfully processed binary-husky/gpt_academic with 9 files
+[2025-03-19 16:08:47] Processing repository: python/cpython
+[2025-03-19 16:08:48] Successfully processed josephmisiti/awesome-machine-learning with 1 files
+[2025-03-19 16:08:48] Processing repository: ansible/ansible
+[2025-03-19 16:08:50] Successfully processed d2l-ai/d2l-zh with 10 files
+[2025-03-19 16:08:50] Processing repository: swisskyrepo/PayloadsAllTheThings
+[2025-03-19 16:08:53] Successfully processed ansible/ansible with 10 files
+[2025-03-19 16:08:53] Processing repository: xtekky/gpt4free
+[2025-03-19 16:08:53] Successfully processed swisskyrepo/PayloadsAllTheThings with 10 files
+[2025-03-19 16:08:53] Processing repository: sherlock-project/sherlock
+[2025-03-19 16:08:55] Successfully processed python/cpython with 10 files
+[2025-03-19 16:08:55] Processing repository: keras-team/keras
+[2025-03-19 16:08:56] Successfully processed sherlock-project/sherlock with 7 files
+[2025-03-19 16:08:56] Processing repository: scikit-learn/scikit-learn
+[2025-03-19 16:08:57] Successfully processed xtekky/gpt4free with 10 files
+[2025-03-19 16:08:57] Processing repository: Alvin9999/new-pac
+[2025-03-19 16:08:58] Successfully processed Alvin9999/new-pac with 2 files
+[2025-03-19 16:08:58] Processing repository: labmlai/annotated_deep_learning_paper_implementations
+[2025-03-19 16:09:00] Successfully processed scikit-learn/scikit-learn with 8 files
+[2025-03-19 16:09:00] Processing repository: OpenInterpreter/open-interpreter
+[2025-03-19 16:09:00] Successfully processed keras-team/keras with 10 files
+[2025-03-19 16:09:00] Processing repository: localstack/localstack
+[2025-03-19 16:09:02] Successfully processed labmlai/annotated_deep_learning_paper_implementations with 10 files
+[2025-03-19 16:09:02] Processing repository: meta-llama/llama
+[2025-03-19 16:09:04] Successfully processed OpenInterpreter/open-interpreter with 9 files
+[2025-03-19 16:09:04] Processing repository: zylon-ai/private-gpt
+[2025-03-19 16:09:04] Successfully processed localstack/localstack with 5 files
+[2025-03-19 16:09:04] Processing repository: soimort/you-get
+[2025-03-19 16:09:05] Successfully processed meta-llama/llama with 7 files
+[2025-03-19 16:09:05] Processing repository: scrapy/scrapy
+[2025-03-19 16:09:08] Successfully processed zylon-ai/private-gpt with 10 files
+[2025-03-19 16:09:08] Processing repository: ageitgey/face_recognition
+[2025-03-19 16:09:08] Successfully processed soimort/you-get with 6 files
+[2025-03-19 16:09:08] Processing repository: CorentinJ/Real-Time-Voice-Cloning
+[2025-03-19 16:09:09] Successfully processed scrapy/scrapy with 10 files
+[2025-03-19 16:09:09] Processing repository: deepfakes/faceswap
+[2025-03-19 16:09:12] Successfully processed ageitgey/face_recognition with 10 files
+[2025-03-19 16:09:12] Processing repository: AntonOsika/gpt-engineer
+[2025-03-19 16:09:12] Successfully processed CorentinJ/Real-Time-Voice-Cloning with 9 files
+[2025-03-19 16:09:12] Processing repository: ultralytics/yolov5
+[2025-03-19 16:09:13] Successfully processed deepfakes/faceswap with 4 files
+[2025-03-19 16:09:13] Processing repository: commaai/openpilot
+[2025-03-19 16:09:15] Successfully processed AntonOsika/gpt-engineer with 7 files
+[2025-03-19 16:09:15] Processing repository: geekan/MetaGPT
+[2025-03-19 16:09:17] Successfully processed ultralytics/yolov5 with 10 files
+[2025-03-19 16:09:17] Processing repository: psf/requests
+[2025-03-19 16:09:17] Successfully processed commaai/openpilot with 7 files
+[2025-03-19 16:09:17] Processing repository: langflow-ai/langflow
+[2025-03-19 16:09:19] Successfully processed geekan/MetaGPT with 9 files
+[2025-03-19 16:09:19] Processing repository: Z4nzu/hackingtool
+[2025-03-19 16:09:20] Successfully processed psf/requests with 10 files
+[2025-03-19 16:09:20] Processing repository: Textualize/rich
+[2025-03-19 16:09:21] Successfully processed langflow-ai/langflow with 9 files
+[2025-03-19 16:09:21] Processing repository: All-Hands-AI/OpenHands
+[2025-03-19 16:09:23] Successfully processed Z4nzu/hackingtool with 10 files
+[2025-03-19 16:09:23] Processing repository: xai-org/grok-1
+[2025-03-19 16:09:25] Successfully processed All-Hands-AI/OpenHands with 9 files
+[2025-03-19 16:09:25] Processing repository: PaddlePaddle/PaddleOCR
+[2025-03-19 16:09:25] Successfully processed xai-org/grok-1 with 4 files
+[2025-03-19 16:09:25] Processing repository: charlax/professional-programming
+[2025-03-19 16:09:25] Successfully processed Textualize/rich with 9 files
+[2025-03-19 16:09:25] Processing repository: minimaxir/big-list-of-naughty-strings
+[2025-03-19 16:09:26] Successfully processed minimaxir/big-list-of-naughty-strings with 2 files
+[2025-03-19 16:09:26] Processing repository: browser-use/browser-use
+[2025-03-19 16:09:26] Successfully processed charlax/professional-programming with 3 files
+[2025-03-19 16:09:26] Processing repository: Asabeneh/30-Days-Of-Python
+[2025-03-19 16:09:29] Successfully processed PaddlePaddle/PaddleOCR with 9 files
+[2025-03-19 16:09:29] Processing repository: pandas-dev/pandas
